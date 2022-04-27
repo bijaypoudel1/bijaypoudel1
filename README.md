@@ -4,9 +4,9 @@
 
 <div align="center" width="50">
 
-<!-- <img src="https://imgbox.com/5pcwh2Wv" alt="Welcome!" width="300"/> -->
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/64188827/165431670-26606702-7cad-4b46-b6be-fa95a24d0b7b.gif)
 
+  <h2>React js | Tailwind css | Next js | Node Js | Flutter </h2>
   
   
 </div>
