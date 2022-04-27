@@ -6,7 +6,7 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/64188827/165431670-26606702-7cad-4b46-b6be-fa95a24d0b7b.gif)
 
-  <h2>React js | Tailwind css | Next js | UI/UX | Node Js | Flutter </h2>
+  <h2>React js  |  Tailwind css  |  Next js      | UI/UX | Node Js | Flutter </h2>
   
   
 </div>
