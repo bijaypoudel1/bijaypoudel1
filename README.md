@@ -18,7 +18,7 @@ Hi, I'm Bijay Poudel,a passionate developer graduate specialised in computer sci
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **><br>
