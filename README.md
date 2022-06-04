@@ -27,11 +27,7 @@ Hi, I'm Bijay Poudel,a passionate developer graduate specialised in computer sci
 ✔ ⚡ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
 
-<p align="center">
-    <a href="https://github.com/bijaypoudel1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bijay poudel streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HridoyHazard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=bijaypoudel1&row=1&no-bg=true)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bijaypoudel1&show_icons=true&count_private=true&theme=great-gatsby) </br>
