@@ -64,10 +64,12 @@ Hi, I'm Bijay Poudel,a passionate developer graduate specialised in computer sci
 
 
 ## Connect with me 
-<a href="https://www.facebook.com/userdeadb" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="hridoy.the.hazard10" height="30" width="40" /></a>
+<span>
+  <a href="https://www.facebook.com/userdeadb" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="hridoy.the.hazard10" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bijay_pdl/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="hridoyalhazard" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13409570/bijay-poudel" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="hridoyalhazard" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bijaypoudel/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hridoyalhazard" height="30" width="40" /></a>
+  </span>
     
 <br>
 
