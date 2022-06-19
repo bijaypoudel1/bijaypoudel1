@@ -30,7 +30,6 @@ Hi, I'm Bijay Poudel,a passionate developer graduate specialised in computer sci
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=bijaypoudel1&row=1&no-bg=true)
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bijaypoudel1&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijaypoudel1&theme=great-gatsby&layout=compact)](https://github.com/bijaypoudel1)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
