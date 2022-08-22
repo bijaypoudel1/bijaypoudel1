@@ -20,8 +20,8 @@ Hi, I'm Bijay Poudel,a passionate developer graduate specialised in computer sci
 
 ***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **><br>
+
+✔ 🌱 I’m learning ** Mern Stack, REST API, and MongoDB **><br>
 ✔ 👯 I’m currently learning about **Web3 & Blockchain**🥰<br>
 ✔ 🤔 Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ ⚡ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
