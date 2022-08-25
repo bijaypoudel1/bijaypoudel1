@@ -26,11 +26,9 @@ Hi, I'm Bijay Poudel,a passionate developer graduate specialised in computer sci
 ✔ 🤔 Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ ⚡ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bijaypoudel1&theme=neon_blurange)](https://git.io/streak-stats)
 
 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=bijaypoudel1&row=1&no-bg=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijaypoudel1&theme=great-gatsby&layout=compact)](https://github.com/bijaypoudel1)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
