@@ -7,12 +7,14 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/64188827/165431670-26606702-7cad-4b46-b6be-fa95a24d0b7b.gif)
 
-  <h2>React js  |  Tailwind css  |  Next js      | UI/UX | Node Js | Flutter </h2>
+  <h2>React js  |  Tailwind css  |  Next js   | UI/UX | Node Js | Flutter </h2>
   
   
 </div>
 
-Hi, I'm Bijay Poudel,a passionate developer graduate specialised in computer science. Enthusiastic in web development and hybrid app development. Looking for opportunities to work in Reputed Innovative Companies. Fascinated in solving problems and accepting new challenges.
+Hi, I'm Bijay Poudel,a passionate developer graduate specialised in computer science. Enthusiastic in web development and blockchain. I am a learning enthusiast with a curiosity about problem-solving with technology. 
+I like new challenges and am interested in building beautiful, functional, and user-friendly web applications.
+Please feel free to contact me, I'd love to meet with professionals and people with a passion for coding!
 
 
 <br><br>
@@ -27,10 +29,6 @@ Hi, I'm Bijay Poudel,a passionate developer graduate specialised in computer sci
 ✔ ⚡ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bijaypoudel1&theme=neon_blurange)](https://git.io/streak-stats)
-
-
-</br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## Skills 
 
